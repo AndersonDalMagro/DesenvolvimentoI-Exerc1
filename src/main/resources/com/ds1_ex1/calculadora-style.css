@@ -1,0 +1,8 @@
+#botao_limpar {
+    -fx-background-color: #dc4248;
+    -fx-text-fill: ffffff;
+}
+#botao_igual {
+    -fx-background-color: #3471eb;
+    -fx-text-fill: ffffff;
+}
